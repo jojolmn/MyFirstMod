@@ -1,0 +1,20 @@
+[
+{
+  "modid": "MFM",
+  "name": "MyFirstMod",
+  "description": "My first mod yay !",
+  "version": "0.0.1",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "jojolmn"
+  ],
+  "credits": "thanks Pahimar for his Let's mod serie!",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
